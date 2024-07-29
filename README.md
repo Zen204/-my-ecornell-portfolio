@@ -1,4 +1,4 @@
-This is a Machine Learning project focusing on logistic regression model selection and evaluation
+This is a Machine Learning project focusing on logistic regression model selection and evaluation.
 The following tasks were completed in the implementation of this project:
 
 1. Build DataFrame and Define the ML Problem
