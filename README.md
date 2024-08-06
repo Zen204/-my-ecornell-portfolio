@@ -2,7 +2,7 @@ This is a Machine Learning project focusing on logistic regression model selecti
 The following tasks were completed in the implementation of this project:
 
 1. Build DataFrame and Define the ML Problem
--Load the Data Set: Load the Airbnb "listings" data set.
+-Load the Data Set: Load the given data set.
 Define the Label: Specify what is being predicted.
 Identify the Features: Determine which features will be used for prediction.
 2. Create Labeled Examples from the Data Set
