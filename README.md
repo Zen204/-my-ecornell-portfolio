@@ -1,4 +1,4 @@
-# Predicting Airbnb Availability
+# ML Models
 
 The project leverages feature engineering, data preprocessing, and supervised learning models to achieve accurate predictions.
 
