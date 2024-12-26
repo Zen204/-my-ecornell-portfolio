@@ -1,6 +1,6 @@
 # ML Models
 
-The project leverages feature engineering, data preprocessing, and supervised learning models to achieve accurate predictions.
+This project collection leverages feature engineering, data preprocessing, and supervised learning models to achieve accurate predictions.
 
 ## Features
 
